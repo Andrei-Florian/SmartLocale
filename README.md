@@ -1,4 +1,6 @@
 # Overview
+![Cover Image](https://hackster.imgix.net/uploads/attachments/499736/cover_image_PZNufTcw4c.JPG?auto=compress%2Cformat&w=900&h=675&fit=min)
+
 In the age of IoT, businesses are digitalising and moving from pen and paper to screen and keyboard. Many managers are appealing to IoT solutions to better run their companies.
 
 IoT helps businesses improve their sales and marketing by collecting data about their consumers and suggesting actions that would make the business more attractive, resulting in improved sales and presence at the store.
